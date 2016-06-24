@@ -13,6 +13,8 @@ int main(int argc, char* argv[])
 		std::cout << arg << std::endl;
 	});
 
+    // This seems to be work in Qt Creator too
+
 	std::cout << "Hello world!" << std::endl;
 	return 0;
 }
